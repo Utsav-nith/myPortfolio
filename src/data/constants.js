@@ -131,7 +131,7 @@ export const experiences = [
     role: "Frontend Engineering Intern",
     company: "Websitera House pvt. ltd.",
     date: "Jun 2023 - Sep 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    desc: "Working on developing a website using React.js and Bootstrap while implementing effective Redux state management for seamless user experiences and enhanced frontend functionality.",
     skills: [
       "Reactjs",
       "Redux",
